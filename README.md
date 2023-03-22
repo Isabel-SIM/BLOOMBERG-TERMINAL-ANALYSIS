@@ -1,5 +1,6 @@
-THE BLOOMBERG TERMINAL
+<h3> THE BLOOMBERG TERMINAL </h3>
 
+<br>
 
 Financial markets move at an incredible speed. Investors need news, research and data that is fast, accurate and relevant. They also require intricate technologies, to help them understand risk, find high-value opportunities, and communicate with professionals and colleagues around the world.
 
@@ -48,10 +49,10 @@ Incorporating AI, would help users more effectively analyse and interpret market
 The success of Bloomberg Terminal can be attributed to two key factors: trust and technological innovation. To maintain its position in the market, Bloomberg must continue to offer fast, accurate data and ensure the platform remains synonymous with robust security measures that are essential for protecting sensitive financial data. Additionally, Bloomberg needs to keep a technological lead among its competitors, constantly innovating and improving its platform to stay ahead of the curve. By prioritising these factors, Bloomberg can continue to build trust with its users and maintain its dominant market share in the financial data and analytics industry.
 
 
+<br><br>
 
 
-
-REFERENCE LIST
+<h4>REFERENCE LIST </h4>
 
 - O'Keefe, B., & Murray, P. (2019). Bloomberg by Bloomberg. John Wiley & Sons.
 
