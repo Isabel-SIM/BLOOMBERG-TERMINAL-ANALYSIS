@@ -64,7 +64,7 @@ The success of Bloomberg Terminal can be attributed to two key factors: trust an
 
 - Thalassinos, E. I. (2020). Bloomberg Terminal: A Complete Beginner’s Guide. Independently Published. 
 
-- Bloomberg. (n.d.). Bloomberg.com. March 22, 2023, (https://www.bloomberg.com/asia)
+- Bloomberg. (n.d.). Bloomberg.com. March 22, 2023, (https://www.bloomberg.com/asia) 
 
 
 
